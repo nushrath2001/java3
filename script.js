@@ -82,13 +82,9 @@ console.log(temp);
    console.log(vehicles);
 
 //   with
- const vehicles = ['mustang', 'f-150', 'expedition'];
+  const vehicle = ['mustang', 'f-150', 'expedition'];
+  
 
- const [car, truck, suv] = vehicles;
+  const [car1, truck1, suv1] = vehicle;
+  console.log(vehicle);
 
- destrcting object
-const info = {
-    id: 007,
-    name: 'James',}
-
-    const info= employee.id.name;
